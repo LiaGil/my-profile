@@ -11,7 +11,7 @@ body
  { 
   margin:0;
   padding:0;
-  background: url(fonddec.png) no-repeat center fixed; 
+  background: url(images/fonddec.png) no-repeat center fixed; 
   -webkit-background-size: cover; /* pour anciens Chrome et Safari */
   background-size: cover; /* version standardisée */
 }
@@ -33,7 +33,7 @@ a:hover
    text-decoration: none;
    color: #63DC04;
    color: italic;
-cursor: url(cursor.gif) ,auto;	
+cursor: url(images/cursor.gif) ,auto;	
 }
 
 a:
